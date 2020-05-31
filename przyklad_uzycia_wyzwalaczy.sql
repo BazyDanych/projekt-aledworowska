@@ -1,0 +1,6 @@
+INSERT INTO Platnosci(TYTUL_WPLATY,WYSOKOSC_OPLATY)
+VALUES("warunek",500);
+
+
+
+
